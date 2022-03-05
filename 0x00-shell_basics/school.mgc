@@ -1,2 +1,2 @@
-#!/bin/bash
-String School
+0 string/[Bbc]* containing "SCHOOL"
+!:mime School
