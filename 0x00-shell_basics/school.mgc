@@ -1,2 +1,2 @@
-0 string/[Bbc]* containing "SCHOOL"
-!:mime School
+0	string/[Bbc]*		SCHOOL
+!:mime  School
