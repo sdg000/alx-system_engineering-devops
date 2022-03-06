@@ -1,0 +1,3 @@
+#!/bin/bash
+#display content of /etc/passwd
+cat /etc/passwd
